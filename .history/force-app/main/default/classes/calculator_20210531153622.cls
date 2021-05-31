@@ -10,29 +10,14 @@
  * 
  * Developers should use this branch for making the changes
  * 
- =======
  * * Version              Date            Name                Description
  * =========================================================================
- * 1                31-May-2021     Sanket Maindiratta      Add Method implemented
  * 1                31-May-2021     Sanket Maindiratta      Sub Method implemented
- * 
-**/
- 
-
- * Version              Date            Name                Description
- * =========================================================================
  * 
 **/
 public with sharing class Calculator 
 {
-    public integer add(integer a, integer b)
-    {
-        return a+b;
-    }
-  
-  
     public integer sub(integer a, integer b)
     {
-        return a-b;
-    }
+        return a-b;}
 }
