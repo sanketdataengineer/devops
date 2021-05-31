@@ -23,7 +23,7 @@
  * =========================================================================
  * 
 **/
-public with sharing class Calculator 
+public with sharing class calculator 
 {
     public integer add(integer a, integer b)
     {
