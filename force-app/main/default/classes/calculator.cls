@@ -9,8 +9,16 @@
  * 1.0   05-29-2021   ChangeMeIn@UserSettingsUnder.SFDoc   Initial Version
  * 
  * Developers should use this branch for making the changes
+ * 
+ * * Version              Date            Name                Description
+ * =========================================================================
+ * 1                31-May-2021     Sanket Maindiratta      Sub Method implemented
+ * 
 **/
 public with sharing class Calculator 
 {
-
+    public integer sub(integer a, integer b)
+    {
+        return a-b;
+    }
 }
