@@ -13,6 +13,7 @@
  =======
  * * Version              Date            Name                Description
  * =========================================================================
+ * 1                31-May-2021     Sanket Maindiratta      Add Method implemented
  * 1                31-May-2021     Sanket Maindiratta      Sub Method implemented
  * 
 **/
@@ -20,7 +21,7 @@
 
  * Version              Date            Name                Description
  * =========================================================================
- * 1                31-May-2021     Sanket Maindiratta      Add Method implemented
+ * 
 **/
 public with sharing class Calculator 
 {
